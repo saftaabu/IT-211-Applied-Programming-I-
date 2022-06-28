@@ -1,0 +1,100 @@
+1.  97%		Black Panther (2018)			493
+2.  94%		Avengers: Endgame (2019)		504
+3.  93%		Us (2019)				513
+4.  97%		Toy Story 4 (2019)			427
+5.  97%		Mission: Impossible - Fallout (2018)	415
+6.  96%		The Irishman (2019)			420
+7.  99%		Lady Bird (2017)			381
+8.  98%		The Wizard of Oz (1939)			116
+9.  100%	Citizen Kane (1941)			84
+10. 96%		BlacKKlansman (2018)			417
+11. 100%	The Cabinet of Dr. Caligari (1920)	51
+12. 98%		Get Out (2017)				369
+13. 97%		Spider-Man: Into the Spider-Verse (2018)373
+14. 97%		Mad Max: Fury Road (2015)		412
+15. 100%	Modern Times (1936)			57
+16. 98%		Moonlight (2016)			373
+17. 98%		Casablanca (1942)			87
+18. 97%		Booksmart (2019)			341
+19. 96%		Roma (2018)				375
+20. 98%		The Farewell (2019)			319
+21. 90%		A Star Is Born (2018)			500
+22. 98%		It Happened One Night (1934)		59
+23. 93%		Wonder Woman (2017)			444
+24. 99%		The Third Man (1949)			80
+25. 93%		Dunkirk (2017)				442
+26. 98%		Inside Out (2015)			362
+27. 99%		Eighth Grade (2018)			295
+28. 97%		La Grande illusion (1938)		66
+29. 97%		Coco (2017)				336
+30. 91%		Star Wars: The Last Jedi (2017)		462
+31. 97%		Spotlight (2015)			363
+32. 99%		All About Eve (1950)			74
+33. 95%		A Quiet Place (2018)			364
+34. 99%		Selma (2014)				304
+35. 98%		The Godfather (1972)			93
+36. 98%		E.T. The Extra-Terrestrial (1982)	128
+37. 100%	Singin' in the Rain (1952)		58
+38. 98%		Snow White and the Seven Dwarfs (1937)	50
+39. 92%		The Shape of Water (2017)		432
+40. 91%		Spider-Man: Far From Home (2019)	426
+41. 93%		Thor: Ragnarok (2017)			408
+42. 94%		Arrival (2016)				416
+43. 100%	The Bride of Frankenstein (1935)	44
+44. 93%		Logan (2017)				403
+45. 94%		Incredibles 2 (2018)			369
+46. 98%		The Big Sick (2017)			290
+47. 95%		Call Me by Your Name (2018)		345
+48. 100%	Paddington 2 (2018)			238
+49. 93%		The Favourite (2018)			386
+50. 98%		King Kong (1933)			60
+51. 100%	The Adventures of Robin Hood (1938)	46
+52. 93%		Star Wars: Episode VII - The Force Awakens (2015) 430
+53. 100%	Laura (1944)				61
+54. 85%		Once Upon a Time In Hollywood (2019)	527
+55. 98%		Metropolis (1927)			124
+56. 96%		Gravity (2013)				347
+57. 100%	Leave No Trace (2018)			225
+58. 100%	Top Hat (1935)				40
+59. 97%		Boyhood (2014)				314
+60. 97%		Nosferatu, a Symphony of Horror (1922)	64
+61. 96%		Manchester by the Sea (2016)		339
+62. 100%	The Maltese Falcon (1941)		55
+63. 96%		Argo (2012)				351
+64. 95%		12 Years a Slave (2013)			359
+65. 98%		A Hard Day's Night (1964)		107
+66. 99%		The Battle of Algiers (1967)		87
+67. 98%		Zootopia (2016)				282
+68. 93%		Baby Driver (2017)			370
+69. 100%	The Philadelphia Story (1940)		61
+70. 91%		La La Land (2016)			444
+71. 94%		War for the Planet of the Apes (2017)	346
+72. 96%		The Florida Project (2017)		299
+73. 96%		Psycho (1960)				95
+74. 99%		The Night of the Hunter (1955)		69
+75. 100%	Rebecca (1940)				59
+76. 92%		Spider-Man: Homecoming (2017)		383
+77. 91%		Widows (2018)				394
+78. 97%		Alien (1979)				119
+79. 99%		North by Northwest (1959)		76
+80. 100%	Seven Samurai  (1956)			61
+81. 99%		Shoplifters (2018)			219
+82. 98%		Won't You Be My Neighbor? (2018)	238
+83. 98%		Sunset Boulevard (1950)			63
+84. 98%		Bicycle Thieves (1949)			62
+85. 90%		Shazam! (2019)				391
+86. 100%	Rear Window (1954)			66
+87. 96%		Touch of Evil (1958)			76
+88. 98%		A Streetcar Named Desire (1951)		59
+89. 97%		Hell or High Water (2016)		275
+90. 100%	Toy Story 2 (1999)			168
+91. 98%		Up (2009)				294
+92. 100%	M (1931)				53
+93. 96%		The 39 Steps (1935)			47
+94. 98%		Lawrence of Arabia (1962)		85
+95. 100%	12 Angry Men (Twelve Angry Men) (1957)	52
+96. 100%	Pinocchio (1940)			51
+97. 98%		Toy Story 3 (2010)			305
+98. 98%		The Lady Vanishes (1938)		43
+99. 91%		Captain America: Civil War (2016)	406
+100. 100%	The 400 Blows  (1959)			60
